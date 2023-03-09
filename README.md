@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-[project page](https://k910t.github.io/react-netflix/).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+프로젝트 결과물[project page](https://k910t.github.io/react-netflix/).
 
 ## Available Scripts
 
